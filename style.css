@@ -3,10 +3,7 @@ body {
     overflow:hidden;
     min-height: 100vh;
     cursor: crosshair;
-    overflow: hidden;
-    width: 100%;
     position: fixed;
-
 }
 .bubble {
     position: absolute;
