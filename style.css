@@ -4,7 +4,6 @@ body {
     min-height: 100vh;
     cursor: crosshair;
     overflow: hidden;
-    height: 100%;
     width: 100%;
     position: fixed;
 
@@ -33,4 +32,5 @@ h3{
       text-align: center;
       margin-top: 20px;
       color: rgba(128,128,128,0.555);
+      z-index: -1;
 }
