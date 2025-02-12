@@ -1,8 +1,18 @@
-body {
+html{
     overflow: hidden;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+}
+body {
+    overflow:hidden;
     min-height: 100vh;
     cursor: crosshair;
-    width: 100vw;
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+
 }
 .bubble {
     position: absolute;
